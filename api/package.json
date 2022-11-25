@@ -1,0 +1,10 @@
+{
+  "name": "api",
+  "packageManager": "yarn@3.2.4",
+  "scripts":{
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
